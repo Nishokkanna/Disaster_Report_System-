@@ -4,9 +4,7 @@ A frontend-based AI-powered web application that aids in disaster response by an
 
 ## Features
 
-- 🎯 AI-based damage detection using Google Cloud Vision API
-- 🗺️ Interactive Google Map showing live damage classification
-- 🏥 Nearby emergency locations using Google Places API
+- 🗺️ Interactive Google Map showing disaster location of user report.
 - 🔔 Real-time browser push alerts using Notification API
 - 💾 Local storage for saving disaster reports
 - 📱 Responsive design for mobile and desktop
